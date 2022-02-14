@@ -119,7 +119,7 @@ exemple:
 
 ## Comment soumettre ma réponse?
 
-1. Je clonerais le projet avec git dont le lien est https://github.com/Ialimijoro/formation-akata-algorithme.git
+1. Je clone le projet avec git dont le lien est https://github.com/Ialimijoro/formation-akata-algorithme.git
 2. Je crée mon branche qui corresponds à mon nom à partir du branche **main**
 3. Je change le fichier qui corresponds au numero de question, puis je commite ma réponse.
    exemple: si je réponds au première question, je compléterais le fichier 1.js
