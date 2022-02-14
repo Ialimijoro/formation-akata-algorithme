@@ -60,6 +60,19 @@ exemple:
 
 7. Ecrire une fonction qui reçoit un table de hashage en argument et qui retourne la valeur du clé "pomme"
 
+exemple:
+
+- si on a le hash suivant:
+
+```js
+var hash = {
+  pomme: 10,
+  banane: 2,
+};
+```
+
+la fonction retournera 10
+
 ---
 
 8. Ecrire une fonction qui reçoit un table de hashage en argument, change la valeur du clé "akata" en "goavana".
