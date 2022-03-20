@@ -10,4 +10,5 @@ function maximum(tab) {
   return max;
 }
 
-console.log(maximum([1, 5, 0, 3, 56]));
+console.log(maximum([0, 1, 2, 3, 4]));
+console.log(maximum([88, 9, 2, 3]));

@@ -10,3 +10,4 @@ function minimum(tab) {
   return min;
 }
 console.log(minimum([0, 45, 6, 9]));
+console.log(minimum([88, 9, 2, 3]));
